@@ -1,0 +1,32 @@
+body{
+    background-color: #faffff;
+}
+.head{
+    background-color: blue;
+    color: cornsilk;
+    align-content: center;
+    width: 100%;
+    height: 100px;
+    text-align: center;
+    
+}
+.log{
+    text-align: right;
+    color: #ffffff;
+}
+
+.head a{
+
+    color: #ffffff;
+}
+
+.back{
+    text-align: left;
+    color: #ffffff;
+}
+.containt{
+   align-content: center;
+    text-align: center;
+    margin-top: 20px;
+    background-color: aquamarine;
+}
